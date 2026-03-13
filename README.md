@@ -1,2 +1,1 @@
-# DeepScanAi
-video detection system
+# DeepScan-AI
